@@ -1,0 +1,1 @@
+printing directory with bash
